@@ -1,7 +1,7 @@
 # ShoutALL - V
 
 ## 感谢原作者
- 这个是基于作者![RimuruChan](https://github.com/RimuruChan/ShoutAll)的ShoutALL项目重置而来。在此向原作者表示感谢！
+ 这个是基于作者[RimuruChan](https://github.com/RimuruChan/ShoutAll)的ShoutALL项目重置而来。在此向原作者表示感谢！
 
 ## 关于本插件
  本插件是基于原作者的RimuruChan插件进行的修改，将其移植到Velocity。它仍然提供了原来的全服邀请功能。
